@@ -55,9 +55,3 @@
 @use 'blocks/expandable-content';
 
 
-
-.header,
-main > *:not(:last-child),
-.footer {
-    display: none !important;
-}
